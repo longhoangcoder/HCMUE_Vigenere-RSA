@@ -1,0 +1,14 @@
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\bin\Debug\HCMUEVigenereRSA.exe.config
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\bin\Debug\HCMUEVigenereRSA.exe
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\bin\Debug\HCMUEVigenereRSA.pdb
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\bin\Debug\Newtonsoft.Json.dll
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\bin\Debug\Newtonsoft.Json.xml
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\obj\Debug\HCMUEVigenereRSA.csproj.AssemblyReference.cache
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\obj\Debug\HCMUEVigenereRSA.csproj.SuggestedBindingRedirects.cache
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\obj\Debug\HCMUEVigenereRSA.Properties.Resources.resources
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\obj\Debug\HCMUEVigenereRSA.VigenereRSA.resources
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\obj\Debug\HCMUEVigenereRSA.csproj.GenerateResource.cache
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\obj\Debug\HCMUEVigenereRSA.csproj.CoreCompileInputs.cache
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\obj\Debug\HCMUEVigenereRSA.csproj.CopyComplete
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\obj\Debug\HCMUEVigenereRSA.exe
+E:\REPO\HCMUEVigenereRSA\GorillasVigenereRSA\obj\Debug\HCMUEVigenereRSA.pdb
