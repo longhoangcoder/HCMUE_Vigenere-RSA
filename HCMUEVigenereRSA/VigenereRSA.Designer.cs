@@ -818,7 +818,7 @@ namespace HCMUEVigenereRSA
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "VigenereRSA";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Gorillas _ Vigenere - RSA";
+            this.Text = "HCMUE _ Vigenere - RSA";
             this.Load += new System.EventHandler(this.VigenereRSA_Load);
             this.tabPage_Info.ResumeLayout(false);
             this.tabPage_Info.PerformLayout();
